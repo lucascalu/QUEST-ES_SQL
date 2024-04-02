@@ -10,6 +10,7 @@
 4. Qual é a função do operador IN em consultas SQL e como ele é usado?
 5. Explique como funciona o conceito de seleção de colunas em consultas SQL.
 6. Por que é importante escrever consultas SQL eficientes em termos de desempenho?
-7. Explique como os operadores lógicos AND, OR e NOT são utilizados em consultas SQL para combinar condições de pesquisa.Exemplifique cadaa um dos 3 itens.
+7. Explique como os operadores lógicos AND, OR e NOT são utilizados em consultas SQL para combinar condições de pesquisa.
+  Exemplifique cadaa um dos 3 itens.
 8. Por que é crucial utilizar parâmetros de consulta para evitar vulnerabilidades de segurança como injeção de SQL?
 </PRE>
